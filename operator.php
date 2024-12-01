@@ -2,7 +2,7 @@
 
 /*
             Operators
-        */
+*/
 
         // String operator
         $a = "Aditya";
